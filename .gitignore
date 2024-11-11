@@ -1,0 +1,44 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS Code directories
+.vscode/
+
+# User-specific files (add any others your team members want to ignore)
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Rider
+.idea/
+*.sln.iml
+*.sln.sandbox
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
